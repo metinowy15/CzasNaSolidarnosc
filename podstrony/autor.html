@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>Czas na solidarność</title>
     <link rel="stylesheet" href="../css/style.css" />
+<script type="text/javascript" src="../js/mapka.js"></script>
 
 </head>
 <body>
@@ -36,12 +37,15 @@
         <div id="PanelSerce">
 
             <div id="PanelLewy">
-                <div id="Odnosniki"><h2 style="color:green">Warto zajżeć</h2></div>
+                <div id="Odnosniki"><h2 style="color:green">Warto zajrzeć</h2></div>
                 <a target="_blank" href="http:www.radiomaryja.pl"><div id="RadioMaryja"></div></a>
                 <a target="_blank" href="http://www.ziemialimanowska.pl"><div id="ZiemiaLimanowska"></div></a>
                 <a target="_blank" href="http://telewizjarepublika.pl"> <div id="TvRepublika"></div></a>
                 <a target="_blank" href="http://www.solidarnosc.org.pl/"><div id="Solidarnosc"></div></a>
 
+                <div id="Mapa" class="mapka">
+
+                </div>
             </div>
             <div id="PanelPrawy">
                 <div id="Nowosci">
@@ -78,6 +82,7 @@
 
 
 
-
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADw296uw6h_t5A7oTN48KJEvSfxxc8_Ys&callback=initMap">
+    </script>
 </body>
 </html>
