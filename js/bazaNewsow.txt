@@ -1,0 +1,29 @@
+{
+	"tab": [{
+			"Nazwa": "Start strony",
+			"Data": "23-04-2017",
+			"Kategoria":[
+					"Wydarzenia"
+					],
+			"Opis":"Zobacz o czym bêdzie ta strona oraz co na niej znajdziesz",
+			"AdresStrony":"Nowosci/Strona zaczyna dzialac.html",
+			"AdresDlaMiniaturki":"Nowosci/z1.jpg",
+			"AdresDlaSlidera":"Nowosci/z1.jpg"
+		},
+		{
+			"Nazwa": "Start strony",
+			"Data": "23-04-2017",
+			"Kategoria":[
+					"Wydarzenia"
+					],
+			"Opis":"Zobacz o czym bêdzie ta strona oraz co na niej znajdziesz",
+			"AdresStrony":"Nowosci/Strona zaczyna dzialac.html",
+			"AdresDlaMiniaturki":"Nowosci/z1.jpg",
+			"AdresDlaSlidera":"Nowosci/z1.jpg"
+		}
+	
+
+
+	]
+
+}
